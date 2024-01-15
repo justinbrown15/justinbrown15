@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, I'm Justin 👋
+* 🖥️ Favorite languages are Python, C++, and Java.
+* 🌱 I'm currently learning game development in Python with pygame.
+* 📫 I can be reached via email at jbrown80@binghamton.edu
 <!--
 **justinbrown15/justinbrown15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
